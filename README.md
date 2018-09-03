@@ -11,7 +11,7 @@ This project is not intended to be used in production systems. It LACKS substant
 -	Security hardening
 -	Modularization 
 -	Costs optimization
--	Some artifacts names are hard coded in directly within the files.
+-	Some artifacts names are hard coded directly within the files.
 -	Cross platform compatibility (this project is running on Ubuntu Linux and wasn’t tested on other linux distros or windows based os)
 -	And probably some more.
 
