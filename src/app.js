@@ -18,7 +18,7 @@ app.post('/upload', function(req, res){
   // File upload form
   var form = new formidable.IncomingForm();
 
-  // HAndle single files for now
+  // Handle single files for now
   form.multiples = true;
 
   // store all uploads in the /uploads directory
